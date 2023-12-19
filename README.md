@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanayyyyy
-- 👀 I’m interested in webDev
+- 👀 I’m interested in backend
 - 🌱 I’m currently learning Computer Science and Engineering
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me manntanayverma@gmail.com.
